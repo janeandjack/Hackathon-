@@ -9,13 +9,13 @@ This is a website that introduced our beautiful Province, Ontario. The website d
   * Illustrator
   * Adobe XD
   * Document edit
-  ## Graphic Designer 
+## Graphic Designer 
 **Runmin Ma**
 * designed with
   * AfterEffects
   * Illustrator
   * Adobe XD
-  ## Motion/3D Artist 
+## Motion/3D Artist 
 **Kyle Heuchan**
 * designed with
   * AfterEffects
