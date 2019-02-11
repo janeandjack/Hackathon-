@@ -24,7 +24,7 @@ This is a website that introduced our beautiful Province, Ontario. The website d
   * gulp -- insert plugins
   * sass -- easy coding
   * javascript -- Animation
-  * Vue -- fetch API
+  * Vue.js -- fetch API
   * WAMP -- database
   * PHP -- GET & POST
 * Developing tool:
