@@ -2,6 +2,7 @@
 
 ## Welcome to Ontario, Canada
 This is a website that introduced our beautiful Province, Ontario. The website described the beautiful sight seen in our province, especically in summer.
+![image](https://github.com/janeandjack/Hackathon-/raw/div.img/image/ontarioMap.jpg)
 ## Designer
 ### Project Manager
 **Zhiqing Zhao**
