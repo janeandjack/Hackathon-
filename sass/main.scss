@@ -2,3 +2,9 @@
 @import 'modules/_header';
 @import 'modules/_content';
 @import 'modules/_footer';
+
+
+body{
+    max-width: 75em !important;
+    margin: 0 auto !important;
+}
