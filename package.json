@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/janeandjack/Hackathon-.git"
   },
-  "author": "Chaochao Li,An Liu, Ziqing Zhang",
+  "author": "Chaochao Li,An Liu, Ziqing Zhao, Kyle Heuchan, Runmin Ma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/janeandjack/Hackathon-/issues"
@@ -19,6 +19,10 @@
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3"
   }
 }
